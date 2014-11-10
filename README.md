@@ -23,3 +23,5 @@ Potential Projects:
 * Draft and Release an API Strategy 
 * Incorporate API Requirements Into Contracts 
 * Staff Trainings
+* Review current list of APIs to see whether any would be good for dogfooding
+* 
