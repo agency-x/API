@@ -24,4 +24,5 @@ Potential Projects:
 * Incorporate API Requirements Into Contracts 
 * Staff Trainings
 * Review current list of APIs to see whether any would be good for dogfooding
-* 
+* Set up a developer engagement mprogram 
+* Set up 'help wanted' tags in CFA tool 
