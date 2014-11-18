@@ -2,17 +2,17 @@ API
 ===
 
 ## Components
-* [Developer Hub]()
-* [Individual API Documentation]()
-* [API Standards]()
-* [API Strategy]()
-* [API Design Ideas]()
-* [Requests for API Candidates]()
-* [API Playground]()
-* [API UX Materials]()
-* [Boilerplate Contract Language]()
-* [Sample API Requirements]()
-* [Open Source Policy]()
+* [Developer Hub](https://github.com/agency-x/agency-x.github.io)
+* [Individual API Documentation](https://github.com/agency-x/api-documentation)
+* [API Standards](https://github.com/agency-x/api-standards)
+* [API Strategy](https://github.com/agency-x/api-strategy)
+* [API Design Ideas](https://github.com/agency-x/api-design )
+* [Requests for API Candidates](https://github.com/agency-x/data-requests)
+* [API Playground](https://github.com/agency-x/api_playground)
+* [API UX Materials](https://github.com/agency-x/API-Usability-Testing)
+* [Boilerplate Contract Language](https://github.com/agency-x/API-contract-language)
+* [Sample API Requirements](https://github.com/agency-x/sample_api_requirements/)
+* [Open Source Policy](https://github.com/agency-x/open-source-policy)
 
 Potential Projects: 
 * Review Notes on Write APIs to Factor into Agency X's plans for Write APIs
