@@ -16,7 +16,7 @@ API
 
 Potential Projects: 
 * Review Notes on Write APIs to Factor into Agency X's plans for Write APIs
-* Launch UCSIC.gov/developer
+* Launch agency.gov/developer
 * Solicit and Coordinate Feedback on API Design
 * Solicit and Coordinate Feedback on Data or Service Selection (What to Integrate with the API)
 * Publish Lightweight APIs as Pilot Projects.  
